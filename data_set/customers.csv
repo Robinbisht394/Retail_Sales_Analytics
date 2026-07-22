@@ -1,0 +1,51 @@
+customer_id,name,gender,Age,City,State
+1,"Aarav Sharma",Male,24,Jaipur,Rajasthan
+2,"Vivaan Gupta",Male,31,Delhi,Delhi
+3,"Ananya Singh",Female,28,Lucknow,"Uttar Pradesh"
+4,"Diya Patel",Female,22,Ahmedabad,Gujarat
+5,"Arjun Verma",Male,35,Bhopal,"Madhya Pradesh"
+6,"Meera Joshi",Female,27,Pune,Maharashtra
+7,"Rohan Kapoor",Male,50,Chandigarh,Chandigarh
+8,"Sneha Nair",Female,26,Kochi,Kerala
+9,"Karan Malhotra",Male,29,Ludhiana,Punjab
+10,"Priya Yadav",Female,25,Kanpur,"Uttar Pradesh"
+11,"Aditya Mehta",Male,33,Surat,Gujarat
+12,"Neha Sharma",Female,32,Jaipur,Rajasthan
+13,"Rahul Kumar",Male,27,Patna,Bihar
+14,"Isha Arora",Female,23,Delhi,Delhi
+15,"Siddharth Jain",Male,36,Indore,"Madhya Pradesh"
+16,"Pooja Mishra",Female,34,Varanasi,"Uttar Pradesh"
+17,"Manish Saini",Male,40,Jaipur,Rajasthan
+18,"Ritika Roy",Female,29,Kolkata,"West Bengal"
+19,"Harsh Vardhan",Male,21,Ranchi,Jharkhand
+20,"Nikita Das",Female,30,Bhubaneswar,Odisha
+21,"Aman Choudhary",Male,28,Jodhpur,Rajasthan
+22,"Simran Kaur",Female,26,Amritsar,Punjab
+23,"Mohit Agarwal",Male,38,Noida,"Uttar Pradesh"
+24,"Kavya Reddy",Female,24,Hyderabad,Telangana
+25,"Yash Thakur",Male,27,Shimla,"Himachal Pradesh"
+26,"Tanvi Kulkarni",Female,31,Nagpur,Maharashtra
+27,"Nitin Bansal",Male,34,Faridabad,Haryana
+28,"Shreya Ghosh",Female,29,Kolkata,"West Bengal"
+29,"Deepak Rana",Male,37,Dehradun,Uttarakhand
+30,"Aditi Saxena",Female,23,Agra,"Uttar Pradesh"
+31,"Vikas Pandey",Male,39,Prayagraj,"Uttar Pradesh"
+32,"Riya Sharma",Female,25,Udaipur,Rajasthan
+33,"Sahil Khanna",Male,28,Gurugram,Haryana
+34,"Anjali Sinha",Female,33,Patna,Bihar
+35,"Abhishek Tiwari",Male,41,Raipur,Chhattisgarh
+36,"Muskan Ali",Female,22,Srinagar,"Jammu & Kashmir"
+37,"Rajat Sharma",Male,30,Delhi,Delhi
+38,"Komal Jain",Female,27,Ajmer,Rajasthan
+39,"Varun Chawla",Male,35,Chennai,"Tamil Nadu"
+40,"Sakshi Verma",Female,28,Lucknow,"Uttar Pradesh"
+41,"Akash Yadav",Male,24,Meerut,"Uttar Pradesh"
+42,"Nandini Iyer",Female,32,Bengaluru,Karnataka
+43,"Gaurav Singh",Male,29,Gwalior,"Madhya Pradesh"
+44,"Payal Bhatia",Female,26,Jalandhar,Punjab
+45,"Rakesh Soni",Male,43,Ujjain,"Madhya Pradesh"
+46,"Shruti Dubey",Female,31,Jabalpur,"Madhya Pradesh"
+47,"Hemant Rawat",Male,36,Haridwar,Uttarakhand
+48,"Preeti Chawla",Female,27,Delhi,Delhi
+49,"Nikhil Arora",Male,34,Mohali,Punjab
+50,"Bhavna Kapoor",Female,29,Mumbai,Maharashtra

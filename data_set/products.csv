@@ -1,0 +1,21 @@
+product_id,productName,Category,UnitPrice
+101,"HP Pavilion Laptop",Electronics,65000.00
+102,"Samsung Galaxy M35",Electronics,18999.00
+103,"Boat Rockerz 450 Headphones",Electronics,1999.00
+104,"Logitech Wireless Mouse",Electronics,899.00
+105,"LG 43 Inch Smart TV",Electronics,34999.00
+106,"Office Chair",Furniture,7499.00
+107,"Wooden Study Table",Furniture,11999.00
+108,Bookshelf,Furniture,5499.00
+109,"Sofa Set",Furniture,28999.00
+110,"Nike Running Shoes",Fashion,4999.00
+111,"Levis Jeans",Fashion,2499.00
+112,"Puma T-Shirt",Fashion,1299.00
+113,"Titan Wrist Watch",Fashion,5999.00
+114,"The Psychology of Money",Books,499.00
+115,"Atomic Habits",Books,699.00
+116,"Rich Dad Poor Dad",Books,399.00
+117,"Prestige Pressure Cooker","Home & Kitchen",2499.00
+118,"Milton Water Bottle","Home & Kitchen",599.00
+119,"Philips Mixer Grinder","Home & Kitchen",4299.00
+120,"Cello Dinner Set","Home & Kitchen",1899.00
